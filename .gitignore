@@ -1,0 +1,10 @@
+
+*.synctex(busy)
+
+*.gz
+
+*.aux
+
+*.log
+
+*.toc

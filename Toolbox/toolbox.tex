@@ -1,0 +1,55 @@
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage[french]{babel}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{nameref}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{tcolorbox}
+\usepackage{colortbl}
+\usepackage{placeins}
+\usepackage{longtable} % tableaux qui tiennent sur plusieurs pages
+\usepackage{enumitem}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
+
+\newcommand\element[1]{\textcolor{blue}{\textit{#1}}}
+\newcommand\acompleter[1]{\textcolor{red}{\uppercase{\textbf{A COMPLETER: #1\\}}}}
+
+\newcommand\important[1]{
+\begin{tcolorbox}[colback=white,colframe=red!75!black,title=Important]
+#1
+\end{tcolorbox}
+}
+
+\newcommand\remarque[1]{
+\begin{tcolorbox}[colback=white,colframe=blue!75!black,title=Remarque]
+#1
+\end{tcolorbox}
+}
+\newcommand\note[1]{
+\begin{tcolorbox}
+#1
+\end{tcolorbox}
+}
+
+\newcommand\dateVersion[1]{\date{\today \\ #1}}
+
+\newcommand\edr{\author{Erwann Dupont-Romano\\\includegraphics[scale=0.12]{../Toolbox/Logo/qr-code}}}
+
+\newcommand{\nombreJoueur}[3]{ %1: min - 2: max - 3: image
+    \includegraphics[scale=0.12]{exemple} #1 - #2 joueurs
+}
+
+\newcommand{\age}[1]{ %1: age
+    #1
+}
+
+\newcommand{\duree}[1]{ %1: duree
+    #1
+}
+
