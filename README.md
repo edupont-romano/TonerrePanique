@@ -1,32 +1,30 @@
-# Intro
-Ce projet sert de modèle pour les jeu.
+# idée
+* chaque carte est recto verso
+* d'un côté, la météo. De l'autre, les contraintes.
+* il y a des animaux au centre. Ils doivent passer par certain points pour scorer.
 
-# Architecture
-## Regles
-Le dossier _Regles_ contient tout ce qu'il faut pour définir la règle (au format _LaTex_). Le fichier _regle.tex_ est le fichier principal. Chaque section est définie dans un fichier à part. Les sections de base sont:
-* intro
-* materiel
-* butDuJeu	
-* miseEnPlace	
-* tourDeJeu	
-* finDePartie
-* comptagePoints
-Si une autre section doit être ajoutée, un fichier dédié doit être créé.
+# Déroulement de la partie
+1. Peut retourner deux tuiles visibles contre une cachée. Il peut dans ce cas changer l'orientation d'un animal 
+2. Doit choisir une tuile visible, la retourner face cachée et déplacer l'animal correspondant en ligne droit jusqu'au prochain obstacle 
+3. tous les autres joueurs retournent cette tuile sur l'autre face 
 
-## Materiel
-Le dossier matériel doit contenir tout ce qu'il faut pour faire un prototype.
+## obstacles
+Si un animal percute un obstacle il s'arrête et let s'oriente dans une autre direction. Si l'obstacle est:
+* un animal, celui-ci part en courant
+* un obstacle fixe (arbre, bord de plateau, etc), on change de joueur
 
-## Images
-Ce dossier doit contenir toutes les images, aussi bien pour la règle que pour le matériel. Des images libres de droit peuvent être téléchargées depuis https://www.pngegg.com/fr.
+## cartes meteo
+Au début, un eclair. 7 cartes plus loin, un coup de tonnerre. Puis un éclair, 6 cartes plus loin un coup de tonnerre. Puis un éclair, 5cartes plus loin un coup de tonnerre, etc.
+1. `vent` déplace  tous les animaux dans une direction 
+2. `pluie` change orientation animaux
+3. `soleil` ne fait rien
+4. `éclair` nouvelle manche, à définir
+5. `tonnerre` déclenche une panique tous les animaux partent en courant
 
-## TTS
-Ce dossier doit contenir tout ce qu'il faut pour un protoype numérique sous _tabletop simulator_.
+# contrainte
+* rebond, repars dans le direction d'où il vient
+* double, obstacle-->change orientations--> rejoue
+* ne peut pas jouer 
 
-## Toolbox
-Toolbox est un sous-module qui contient différentes fonctions communes.
-
-## Photos
-Contient toutes les photos.
-
-## Doc
-Contient tous les fichiers de documentations qui pourraient être ajoutés.
+# Scoring
+Si les obstacles sont colorés, on pourrait imaginer un systeme de points par obstacle, et de multiplicateur si l'obstacle et l'animal sont de même couleur. **à tester**
