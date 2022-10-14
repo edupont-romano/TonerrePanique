@@ -16,3 +16,12 @@
 * |: séparation manche
 
 > E x x x x x x T | E x x x x x T | E x x x x T | E x x x T |  E x x T |  E x T | E T
+
+# Tuiles
+* renard (#a35b1c)
+* herisson (#000000)
+* lièvre (#068a1c)
+* ecureuil (#ff0000)
+* mouton (#f7e81b)
+* sanglier (#b8b8b8)
+* Face avec dessin pour jouée, face sans dessin pour ne pas jouer
