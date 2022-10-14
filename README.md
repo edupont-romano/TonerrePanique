@@ -27,4 +27,6 @@ Au début, un eclair. 7 cartes plus loin, un coup de tonnerre. Puis un éclair, 
 * ne peut pas jouer 
 
 # Scoring
-Si les obstacles sont colorés, on pourrait imaginer un systeme de points par obstacle, et de multiplicateur si l'obstacle et l'animal sont de même couleur. **à tester**
+Si les obstacles sont colorés, on pourrait imaginer un systeme de points par obstacle, et de multiplicateur si l'obstacle et l'animal sont de même couleur. **à tester**.
+Ou alors chaque joueur a une couleur et prend un bonus s'il joue l'animal de la mm couleur
+eg chaque obstacle fait 1 pt. on double si c'est la couleur du joueur, on double si c'est un obstacle de la mm couleur que l'animal.
