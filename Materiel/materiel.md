@@ -12,7 +12,10 @@
 # Répartition des cartes
 * T: `tonnerre`
 * E: `eclair`
-* x: `meteo`
+* x: **meteo**
+  * `soleil`
+  * `pluie`
+  * `vent`
 * |: séparation manche
 
 > E x x x x x x T | E x x x x x T | E x x x x T | E x x x T |  E x x T |  E x T | E T
@@ -21,7 +24,15 @@
 * renard (#a35b1c)
 * herisson (#000000)
 * lièvre (#068a1c)
-* ecureuil (#ff0000)
+* ecureuil (#cc0000)
 * mouton (#f7e81b)
 * sanglier (#b8b8b8)
-* Face avec dessin pour jouée, face sans dessin pour ne pas jouer
+
+Face avec dessin pour jouée, face sans dessin pour ne pas jouer
+
+# Contrainte
+* ne peut pas jouer: la couleur ne peut pas être jouée (`interdit`)
+* double les points: les points marqués par l'animal de cette couleur sont doublés (`x2`)
+* reviens sur ses pas: l'animal de la couleur ne change pas de direction mais fait demi tour (`demiTour`)
+* rien: pas de contrainte (`vide`)
+* pas de points: l'animal de la couleur peut être joué mais ne marque pas de points (`x0`)
