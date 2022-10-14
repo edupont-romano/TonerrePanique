@@ -36,3 +36,6 @@ Face avec dessin pour jouée, face sans dessin pour ne pas jouer
 * reviens sur ses pas: l'animal de la couleur ne change pas de direction mais fait demi tour (`demiTour`)
 * rien: pas de contrainte (`vide`)
 * pas de points: l'animal de la couleur peut être joué mais ne marque pas de points (`x0`)
+
+ # Plateau 
+ plateau central, avec obstacle et animaux
