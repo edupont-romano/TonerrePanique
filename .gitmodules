@@ -2,3 +2,6 @@
 	path = Toolbox
 	url = https://github.com/edupont-romano/ToolBox.git
 	branch = main
+[submodule "ToolBox"]
+	path = ToolBox
+	url = git@perso.github.com:edupont-romano/ToolBox.git
