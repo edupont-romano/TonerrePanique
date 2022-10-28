@@ -7,7 +7,7 @@ CARDSIZE=4,4
 BASERANGE=,ON
 
 LINKSEP = ;
-LINK=tuileJoueur.csv
+LINK=./tuileJoueur.csv
 LINKAUTO=ON
 
 VISUAL=, 10, 10
