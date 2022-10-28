@@ -21,12 +21,12 @@
 > E x x x x x x T | E x x x x x T | E x x x x T | E x x x T |  E x x T |  E x T | E T
 
 # Tuiles
-* renard (#a35b1c)
-* herisson (#000000)
-* lièvre (#068a1c)
-* ecureuil (#cc0000)
-* mouton (#f7e81b)
-* sanglier (#b8b8b8)
+* hibou (#f7e81b) --> évite le premier obstacle
+* ecureuil (#cc0000) --> déplace le premier obstacle
+* renard(#a35b1c) --> contourne l'obstacle en changeant de direction
+* sanglier(#b8b8b8) --> ne s'arrête pas au premier obstacle. Il change de direction et repart
+* lièvre (#068a1c) --> avant de partir en courant, peut changer de direction
+* herisson (#000000) --> double son score
 
 Face avec dessin pour jouée, face sans dessin pour ne pas jouer
 
@@ -38,4 +38,6 @@ Face avec dessin pour jouée, face sans dessin pour ne pas jouer
 * pas de points: l'animal de la couleur peut être joué mais ne marque pas de points (`x0`)
 
  # Plateau 
- plateau central, avec obstacle et animaux
+ plateau central, avec obstacle et animaux. Piste de score autour
+
+ # Meeple en forme d'animaux
