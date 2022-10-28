@@ -4,4 +4,4 @@
 	branch = main
 [submodule "ToolBox"]
 	path = ToolBox
-	url = git@perso.github.com:edupont-romano/ToolBox.git
+	url = git@github.com:edupont-romano/ToolBox.git
