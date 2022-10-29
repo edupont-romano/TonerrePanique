@@ -4,7 +4,7 @@
 * il y a des animaux au centre. Ils doivent passer par certain points pour scorer.
 
 # Déroulement de la partie
-1. Peut retourner deux tuiles visibles contre une cachée. Il peut dans ce cas changer l'orientation d'un animal 
+1. Peut retourner deux tuiles visibles contre une cachée. ~~Il peut dans ce cas changer l'orientation d'un animal ~~
 2. Doit choisir une tuile visible, la retourner face cachée et déplacer l'animal correspondant en ligne droit jusqu'au prochain obstacle 
 3. tous les autres joueurs retournent cette tuile sur l'autre face 
 
