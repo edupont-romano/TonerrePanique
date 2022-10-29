@@ -1,0 +1,31 @@
+CARDS=5
+BORDER=ROUNDED,#000000,0.1
+UNIT=CM
+PAGE=21,29.7,PORTRAIT,HV
+DPI=300
+CARDSIZE=6.5,8
+BASERANGE=,ON
+VISUAL=GPS, 30, 30
+;Font(snap)(size)
+FONT=MV Boli,12,,#000000
+;[x0]soleil(snap)
+IMAGE=1-5,..\..\Images\x0.png,{100/30}%,{200/30}%,{258/13}%,{107/8}%
+;[x0](snap)
+TEXT=1-5,"La couleur ne rapporte pas de points",{700/30}%,{200/30}%,{964/13}%,{107/8}%,CENTER,WORDWRAP
+;[x2]pluie(snap)(size)
+IMAGE=1-5,..\..\Images\x2.png,{100/30}%,80%,20%,{400/30}%
+;[x2](snap)(size)
+TEXT=1-5,"La couleur double ses points",{700/30}%,80%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
+;[INTERDIT]eclair(snap)(size)
+IMAGE=1-5,..\..\Images\interdit.png,{100/30}%,{1900/30}%,20%,{400/30}%
+;[INTERDIT](snap)(size)
+TEXT=1-5,"La couleur ne peut pas être jouée",{700/30}%,{1900/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
+;[DEMITOUR]vent(snap)(size)
+IMAGE=1-5,..\..\Images\demiTour.png,{100/30}%,40%,20%,{400/30}%
+;[DEMITOUR](snap)(size)
+TEXT=1-5,"Les animaux ne changent pas de direction",{700/30}%,40%,{2200/30}%,20%,CENTER,WORDWRAP
+;[VIDE]tonnerre(snap)
+IMAGE=1-5,..\..\ToolBox\Images\iconeCarte.png,{100/30}%,{700/30}%,{258/13}%,13.5%
+;[VIDE](snap)(size)
+TEXT=1-5,"Pas de contrainte",{700/30}%,{700/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
+ENDVISUAL
