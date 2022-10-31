@@ -3,19 +3,19 @@ BORDER=ROUNDED,#000000,0.1
 UNIT=CM
 PAGE=21,29.7,PORTRAIT,HV
 DPI=300
-CARDSIZE=6.5,8
+CARDSIZE=6,8.5
 BASERANGE=,ON
 VISUAL=GPS, 30, 30
 ;Font(snap)(size)
 FONT=MV Boli,12,,#000000
 ;[SOLEIL]soleil(snap)
-IMAGE=1-5,..\..\Images\soleil.png,{100/30}%,{200/30}%,{258/13}%,{107/8}%
+IMAGE=1-5,..\..\Images\soleil.png,{100/30}%,{200/30}%,{2240/113}%,{107/8}%
 ;[SOLEIL](snap)
-TEXT=1-5,"Rien de particulier",{700/30}%,{200/30}%,{964/13}%,{107/8}%,CENTER,WORDWRAP
+TEXT=1-5,"Rien de particulier",{700/30}%,{200/30}%,{8380/113}%,{107/8}%,CENTER,WORDWRAP
 ;[PLUIE]pluie(snap)(size)
 IMAGE=1-5,..\..\Images\pluie.png,{100/30}%,80%,20%,{400/30}%
 ;[PLUIE](snap)(size)
-TEXT=1-5,"Tous les animaux changent d'orientation",{700/30}%,80%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
+TEXT=1-5,"Tous les animaux changent d'orientation",{700/30}%,{2300/30}%,{2200/30}%,20%,CENTER,WORDWRAP
 ;[ECLAIR]eclair(snap)(size)
 IMAGE=1-5,..\..\Images\eclair.png,{100/30}%,{1900/30}%,20%,{400/30}%
 ;[ECLAIR](snap)(size)
@@ -25,7 +25,7 @@ IMAGE=1-5,..\..\Images\vent.png,{100/30}%,{1300/30}%,20%,{400/30}%
 ;[VENT](snap)(size)
 TEXT=1-5,"Tous les animaux se décalle d'une case",{700/30}%,{1300/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
 ;[TONNERRE]tonnerre(snap)
-IMAGE=1-5,..\..\Images\tonnerre.png,{100/30}%,{700/30}%,{258/13}%,13.5%
+IMAGE=1-5,..\..\Images\tonnerre.png,{100/30}%,{700/30}%,{2240/113}%,13.5%
 ;[TONNERRE](snap)(size)
 TEXT=1-5,"Tous les animaux paniquent",{700/30}%,{700/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
 ENDVISUAL
