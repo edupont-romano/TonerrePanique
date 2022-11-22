@@ -1,0 +1,1 @@
+* est-ce que les jetons doivent être placés à un point précis
