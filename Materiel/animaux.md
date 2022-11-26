@@ -21,3 +21,4 @@ https://www.spielematerial.de/en/spielmaterial/spielsteine/tiere/wildtiere/set-g
 https://toutpourlejeu.com/fr/pions-petits-animaux/1423-6-pions-en-bois-animaux-multicolores-pour-jeux-3701525308349.html
 https://toutpourlejeu.com/fr/pions-petits-animaux/754-2847-pion-ecureuil-en-bois-colore-pour-jeu-de-28-x-19-x-6-mm-a-l-unite-3701525307915.html#/50-couleur-violet
 https://toutpourlejeu.com/fr/pions-petits-animaux/4784-pion-en-bois-lapin-rouge-22-x-31-x-8-mm-animal-pour-jeu.html
+**https://www.spielematerial.de/en/cows.html**

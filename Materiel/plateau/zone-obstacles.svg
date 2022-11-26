@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="150mm"
+   viewBox="0 0 200 150"
+   version="1.1"
+   id="svg1587"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="zone-obstacles.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1589"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0885159"
+     inkscape:cx="10.105502"
+     inkscape:cy="186.95179"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1584" />
+  <g
+     inkscape:label="icone"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="arbre">
+    <g
+       id="g21577"
+       transform="translate(-355.53031,-59.699591)">
+      <g
+         id="g19617"
+         transform="translate(349.11415,22.940447)"
+         style="display:inline">
+        <g
+           inkscape:label="GridCartesian:X10:Y2"
+           transform="translate(38.264917,75.664049)"
+           id="g18967"
+           style="display:inline">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g18941">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 30"
+               inkscape:label="MajorXDiv1"
+               id="path18923" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 30,0 V 30"
+               inkscape:label="MajorXDiv2"
+               id="path18925" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 45,0 V 30"
+               inkscape:label="MajorXDiv3"
+               id="path18927" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 60,0 V 30"
+               inkscape:label="MajorXDiv4"
+               id="path18929" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 75,0 V 30"
+               inkscape:label="MajorXDiv5"
+               id="path18931" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 90,0 V 30"
+               inkscape:label="MajorXDiv6"
+               id="path18933" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 105,0 V 30"
+               inkscape:label="MajorXDiv7"
+               id="path18935" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 120,0 V 30"
+               inkscape:label="MajorXDiv8"
+               id="path18937" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 135,0 V 30"
+               inkscape:label="MajorXDiv9"
+               id="path18939" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g18945">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 0,15 H 150"
+               inkscape:label="MajorYDiv1"
+               id="path18943" />
+          </g>
+          <g
+             inkscape:label="SubMinorYGridlines"
+             id="g18963">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,3 H 150"
+               inkscape:label="SubminorXDiv0:0:1"
+               id="path18947" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,6 H 150"
+               inkscape:label="SubminorXDiv0:0:2"
+               id="path18949" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,9 H 150"
+               inkscape:label="SubminorXDiv0:0:3"
+               id="path18951" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,12 H 150"
+               inkscape:label="SubminorXDiv0:0:4"
+               id="path18953" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,18 H 150"
+               inkscape:label="SubminorXDiv1:0:1"
+               id="path18955" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,21 H 150"
+               inkscape:label="SubminorXDiv1:0:2"
+               id="path18957" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,24 H 150"
+               inkscape:label="SubminorXDiv1:0:3"
+               id="path18959" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,27 H 150"
+               inkscape:label="SubminorXDiv1:0:4"
+               id="path18961" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="150"
+             height="30"
+             style="fill:none;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect18965" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1573px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763341"
+           x="40.267712"
+           y="90.108414"
+           id="text15466-8"
+           transform="scale(1.0271798,0.97353939)"><tspan
+             sodipodi:role="line"
+             id="tspan15464-6"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763341"
+             x="40.267712"
+             y="90.108414">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0353px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.804817"
+           x="52.933514"
+           y="93.611115"
+           id="text19114"
+           transform="scale(1.0639765,0.93987034)"><tspan
+             sodipodi:role="line"
+             id="tspan19112"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.804817"
+             x="52.933514"
+             y="93.611115">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8572px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.749162"
+           x="71.390045"
+           y="87.355652"
+           id="text19118"
+           transform="scale(0.9930675,1.0069809)"><tspan
+             sodipodi:role="line"
+             id="tspan19116"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.749162"
+             x="71.390045"
+             y="87.355652">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0015px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755978"
+           x="84.974182"
+           y="89.184578"
+           id="text19122"
+           transform="scale(1.0166078,0.9836635)"><tspan
+             sodipodi:role="line"
+             id="tspan19120"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755978"
+             x="84.974182"
+             y="89.184578">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.7601px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.74457"
+           x="103.89654"
+           y="86.169075"
+           id="text19126"
+           transform="scale(0.97905863,1.0213893)"><tspan
+             sodipodi:role="line"
+             id="tspan19124"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.74457"
+             x="103.89654"
+             y="86.169075">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0029px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.756045"
+           x="116.22572"
+           y="88.452042"
+           id="text19134"
+           transform="scale(1.007671,0.99238741)"><tspan
+             sodipodi:role="line"
+             id="tspan19132"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.756045"
+             x="116.22572"
+             y="88.452042">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1654px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763717"
+           x="127.96593"
+           y="90.443733"
+           id="text19138"
+           transform="scale(1.0312362,0.96970998)"><tspan
+             sodipodi:role="line"
+             id="tspan19136"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763717"
+             x="127.96593"
+             y="90.443733">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755881"
+           x="147.52983"
+           y="87.560684"
+           id="text19142"
+           transform="scale(0.99493387,1.0050919)"><tspan
+             sodipodi:role="line"
+             id="tspan19140"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755881"
+             x="147.52983"
+             y="87.560684">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1574px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763338"
+           x="158.06468"
+           y="90.108543"
+           id="text19146"
+           transform="scale(1.0271821,0.9735372)"><tspan
+             sodipodi:role="line"
+             id="tspan19144"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763338"
+             x="158.06468"
+             y="90.108543">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0332px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.757475"
+           x="173.42892"
+           y="89.618553"
+           id="text19150"
+           transform="scale(1.0222388,0.97824497)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.757475"
+             x="173.42892"
+             y="89.618553"
+             id="tspan19152">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="61.651405"
+           y="91.305191"
+           id="text19329"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="61.651405"
+             y="91.305191"
+             id="tspan19331">11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8788px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.655688"
+           x="79.788643"
+           y="89.151993"
+           id="text19337"
+           transform="scale(0.86200328,1.1600884)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.655688"
+             x="79.788643"
+             y="89.151993"
+             id="tspan19335">12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9389px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.658531"
+           x="95.863991"
+           y="90.665535"
+           id="text19345"
+           transform="scale(0.87795958,1.1390046)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.658531"
+             x="95.863991"
+             y="90.665535"
+             id="tspan19343">13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9905px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660966"
+           x="115.11589"
+           y="89.223358"
+           id="text19349"
+           transform="scale(0.8627186,1.1591265)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660966"
+             x="115.11589"
+             y="89.223358"
+             id="tspan19347">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9748px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660227"
+           x="131.46458"
+           y="90.226898"
+           id="text19353"
+           transform="scale(0.87373232,1.1445153)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660227"
+             x="131.46458"
+             y="90.226898"
+             id="tspan19351">15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8579px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.654706"
+           x="148.56015"
+           y="90.418434"
+           id="text19357"
+           transform="scale(0.87554511,1.1421456)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.654706"
+             x="148.56015"
+             y="90.418434"
+             id="tspan19355">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8086px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.652376"
+           x="170.45786"
+           y="88.000679"
+           id="text19361"
+           transform="scale(0.85086157,1.1752793)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.652376"
+             x="170.45786"
+             y="88.000679"
+             id="tspan19359">17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9251px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.657877"
+           x="182.80708"
+           y="90.570358"
+           id="text19365"
+           transform="scale(0.87703496,1.1402054)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.657877"
+             x="182.80708"
+             y="90.570358"
+             id="tspan19363">18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8341px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.653577"
+           x="200.60226"
+           y="90.220436"
+           id="text19369"
+           transform="scale(0.87395001,1.1442302)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.653577"
+             x="200.60226"
+             y="90.220436"
+             id="tspan19367">19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="44.398273"
+           y="91.305183"
+           id="text19373"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="44.398273"
+             y="91.305183"
+             id="tspan19371">10</tspan></text>
+      </g>
+      <image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         xlink:href="../../Images/obstacles/arbre.png"
+         id="image19759"
+         x="357.09521"
+         y="102.93229"
+         style="display:inline" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="rocher">
+    <g
+       id="g21175"
+       transform="translate(-365.55003,-78.670147)">
+      <image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         xlink:href="../../Images/obstacles/rocher.png"
+         id="image19772"
+         x="365.55002"
+         y="158.13185"
+         style="display:inline" />
+      <g
+         id="g21041"
+         transform="translate(359.13387,77.467782)"
+         style="display:inline">
+        <g
+           inkscape:label="GridCartesian:X10:Y2"
+           transform="translate(38.264917,75.664049)"
+           id="g20959"
+           style="display:inline">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g20933">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 30"
+               inkscape:label="MajorXDiv1"
+               id="path20915" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 30,0 V 30"
+               inkscape:label="MajorXDiv2"
+               id="path20917" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 45,0 V 30"
+               inkscape:label="MajorXDiv3"
+               id="path20919" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 60,0 V 30"
+               inkscape:label="MajorXDiv4"
+               id="path20921" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 75,0 V 30"
+               inkscape:label="MajorXDiv5"
+               id="path20923" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 90,0 V 30"
+               inkscape:label="MajorXDiv6"
+               id="path20925" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 105,0 V 30"
+               inkscape:label="MajorXDiv7"
+               id="path20927" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 120,0 V 30"
+               inkscape:label="MajorXDiv8"
+               id="path20929" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 135,0 V 30"
+               inkscape:label="MajorXDiv9"
+               id="path20931" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g20937">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 0,15 H 150"
+               inkscape:label="MajorYDiv1"
+               id="path20935" />
+          </g>
+          <g
+             inkscape:label="SubMinorYGridlines"
+             id="g20955">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,3 H 150"
+               inkscape:label="SubminorXDiv0:0:1"
+               id="path20939" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,6 H 150"
+               inkscape:label="SubminorXDiv0:0:2"
+               id="path20941" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,9 H 150"
+               inkscape:label="SubminorXDiv0:0:3"
+               id="path20943" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,12 H 150"
+               inkscape:label="SubminorXDiv0:0:4"
+               id="path20945" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,18 H 150"
+               inkscape:label="SubminorXDiv1:0:1"
+               id="path20947" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,21 H 150"
+               inkscape:label="SubminorXDiv1:0:2"
+               id="path20949" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,24 H 150"
+               inkscape:label="SubminorXDiv1:0:3"
+               id="path20951" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,27 H 150"
+               inkscape:label="SubminorXDiv1:0:4"
+               id="path20953" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="150"
+             height="30"
+             style="fill:none;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect20957" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1573px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763341"
+           x="40.267712"
+           y="90.108414"
+           id="text20963"
+           transform="scale(1.0271798,0.97353939)"><tspan
+             sodipodi:role="line"
+             id="tspan20961"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763341"
+             x="40.267712"
+             y="90.108414">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0353px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.804817"
+           x="52.933514"
+           y="93.611115"
+           id="text20967"
+           transform="scale(1.0639765,0.93987034)"><tspan
+             sodipodi:role="line"
+             id="tspan20965"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.804817"
+             x="52.933514"
+             y="93.611115">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8572px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.749162"
+           x="71.390045"
+           y="87.355652"
+           id="text20971"
+           transform="scale(0.9930675,1.0069809)"><tspan
+             sodipodi:role="line"
+             id="tspan20969"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.749162"
+             x="71.390045"
+             y="87.355652">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0015px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755978"
+           x="84.974182"
+           y="89.184578"
+           id="text20975"
+           transform="scale(1.0166078,0.9836635)"><tspan
+             sodipodi:role="line"
+             id="tspan20973"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755978"
+             x="84.974182"
+             y="89.184578">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.7601px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.74457"
+           x="103.89654"
+           y="86.169075"
+           id="text20979"
+           transform="scale(0.97905863,1.0213893)"><tspan
+             sodipodi:role="line"
+             id="tspan20977"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.74457"
+             x="103.89654"
+             y="86.169075">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0029px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.756045"
+           x="116.22572"
+           y="88.452042"
+           id="text20983"
+           transform="scale(1.007671,0.99238741)"><tspan
+             sodipodi:role="line"
+             id="tspan20981"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.756045"
+             x="116.22572"
+             y="88.452042">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1654px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763717"
+           x="127.96593"
+           y="90.443733"
+           id="text20987"
+           transform="scale(1.0312362,0.96970998)"><tspan
+             sodipodi:role="line"
+             id="tspan20985"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763717"
+             x="127.96593"
+             y="90.443733">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755881"
+           x="147.52983"
+           y="87.560684"
+           id="text20991"
+           transform="scale(0.99493387,1.0050919)"><tspan
+             sodipodi:role="line"
+             id="tspan20989"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755881"
+             x="147.52983"
+             y="87.560684">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1574px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763338"
+           x="158.06468"
+           y="90.108543"
+           id="text20995"
+           transform="scale(1.0271821,0.9735372)"><tspan
+             sodipodi:role="line"
+             id="tspan20993"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763338"
+             x="158.06468"
+             y="90.108543">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0332px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.757475"
+           x="173.42892"
+           y="89.618553"
+           id="text20999"
+           transform="scale(1.0222388,0.97824497)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.757475"
+             x="173.42892"
+             y="89.618553"
+             id="tspan20997">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="61.651405"
+           y="91.305191"
+           id="text21003"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="61.651405"
+             y="91.305191"
+             id="tspan21001">11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8788px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.655688"
+           x="79.788643"
+           y="89.151993"
+           id="text21007"
+           transform="scale(0.86200328,1.1600884)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.655688"
+             x="79.788643"
+             y="89.151993"
+             id="tspan21005">12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9389px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.658531"
+           x="95.863991"
+           y="90.665535"
+           id="text21011"
+           transform="scale(0.87795958,1.1390046)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.658531"
+             x="95.863991"
+             y="90.665535"
+             id="tspan21009">13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9905px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660966"
+           x="115.11589"
+           y="89.223358"
+           id="text21015"
+           transform="scale(0.8627186,1.1591265)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660966"
+             x="115.11589"
+             y="89.223358"
+             id="tspan21013">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9748px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660227"
+           x="131.46458"
+           y="90.226898"
+           id="text21019"
+           transform="scale(0.87373232,1.1445153)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660227"
+             x="131.46458"
+             y="90.226898"
+             id="tspan21017">15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8579px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.654706"
+           x="148.56015"
+           y="90.418434"
+           id="text21023"
+           transform="scale(0.87554511,1.1421456)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.654706"
+             x="148.56015"
+             y="90.418434"
+             id="tspan21021">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8086px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.652376"
+           x="170.45786"
+           y="88.000679"
+           id="text21027"
+           transform="scale(0.85086157,1.1752793)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.652376"
+             x="170.45786"
+             y="88.000679"
+             id="tspan21025">17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9251px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.657877"
+           x="182.80708"
+           y="90.570358"
+           id="text21031"
+           transform="scale(0.87703496,1.1402054)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.657877"
+             x="182.80708"
+             y="90.570358"
+             id="tspan21029">18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8341px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.653577"
+           x="200.60226"
+           y="90.220436"
+           id="text21035"
+           transform="scale(0.87395001,1.1442302)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.653577"
+             x="200.60226"
+             y="90.220436"
+             id="tspan21033">19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="44.398273"
+           y="91.305183"
+           id="text21039"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="44.398273"
+             y="91.305183"
+             id="tspan21037">10</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="tronc">
+    <g
+       id="g21242"
+       transform="translate(-365.55003,-73.113366)">
+      <g
+         id="g19902"
+         transform="translate(359.13387,107.46778)"
+         style="display:inline">
+        <g
+           inkscape:label="GridCartesian:X10:Y2"
+           transform="translate(38.264917,75.664049)"
+           id="g19820"
+           style="display:inline">
+          <g
+             inkscape:label="MajorXGridlines"
+             id="g19794">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 15,0 V 30"
+               inkscape:label="MajorXDiv1"
+               id="path19776" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 30,0 V 30"
+               inkscape:label="MajorXDiv2"
+               id="path19778" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 45,0 V 30"
+               inkscape:label="MajorXDiv3"
+               id="path19780" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 60,0 V 30"
+               inkscape:label="MajorXDiv4"
+               id="path19782" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 75,0 V 30"
+               inkscape:label="MajorXDiv5"
+               id="path19784" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 90,0 V 30"
+               inkscape:label="MajorXDiv6"
+               id="path19786" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 105,0 V 30"
+               inkscape:label="MajorXDiv7"
+               id="path19788" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 120,0 V 30"
+               inkscape:label="MajorXDiv8"
+               id="path19790" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 135,0 V 30"
+               inkscape:label="MajorXDiv9"
+               id="path19792" />
+          </g>
+          <g
+             inkscape:label="MajorYGridlines"
+             id="g19798">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0.264583"
+               d="M 0,15 H 150"
+               inkscape:label="MajorYDiv1"
+               id="path19796" />
+          </g>
+          <g
+             inkscape:label="SubMinorYGridlines"
+             id="g19816">
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,3 H 150"
+               inkscape:label="SubminorXDiv0:0:1"
+               id="path19800" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,6 H 150"
+               inkscape:label="SubminorXDiv0:0:2"
+               id="path19802" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,9 H 150"
+               inkscape:label="SubminorXDiv0:0:3"
+               id="path19804" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,12 H 150"
+               inkscape:label="SubminorXDiv0:0:4"
+               id="path19806" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,18 H 150"
+               inkscape:label="SubminorXDiv1:0:1"
+               id="path19808" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,21 H 150"
+               inkscape:label="SubminorXDiv1:0:2"
+               id="path19810" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,24 H 150"
+               inkscape:label="SubminorXDiv1:0:3"
+               id="path19812" />
+            <path
+               style="fill:none;stroke:#000000;stroke-width:0"
+               d="M 0,27 H 150"
+               inkscape:label="SubminorXDiv1:0:4"
+               id="path19814" />
+          </g>
+          <rect
+             x="0"
+             y="0"
+             width="150"
+             height="30"
+             style="fill:none;stroke:#000000;stroke-width:0.264583"
+             inkscape:label="Border"
+             id="rect19818" />
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1573px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763341"
+           x="40.267712"
+           y="90.108414"
+           id="text19824"
+           transform="scale(1.0271798,0.97353939)"><tspan
+             sodipodi:role="line"
+             id="tspan19822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763341"
+             x="40.267712"
+             y="90.108414">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.0353px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.804817"
+           x="52.933514"
+           y="93.611115"
+           id="text19828"
+           transform="scale(1.0639765,0.93987034)"><tspan
+             sodipodi:role="line"
+             id="tspan19826"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.804817"
+             x="52.933514"
+             y="93.611115">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.8572px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.749162"
+           x="71.390045"
+           y="87.355652"
+           id="text19832"
+           transform="scale(0.9930675,1.0069809)"><tspan
+             sodipodi:role="line"
+             id="tspan19830"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.749162"
+             x="71.390045"
+             y="87.355652">2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0015px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755978"
+           x="84.974182"
+           y="89.184578"
+           id="text19836"
+           transform="scale(1.0166078,0.9836635)"><tspan
+             sodipodi:role="line"
+             id="tspan19834"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755978"
+             x="84.974182"
+             y="89.184578">3</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.7601px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.74457"
+           x="103.89654"
+           y="86.169075"
+           id="text19840"
+           transform="scale(0.97905863,1.0213893)"><tspan
+             sodipodi:role="line"
+             id="tspan19838"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.74457"
+             x="103.89654"
+             y="86.169075">4</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0029px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.756045"
+           x="116.22572"
+           y="88.452042"
+           id="text19844"
+           transform="scale(1.007671,0.99238741)"><tspan
+             sodipodi:role="line"
+             id="tspan19842"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.756045"
+             x="116.22572"
+             y="88.452042">5</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1654px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763717"
+           x="127.96593"
+           y="90.443733"
+           id="text19848"
+           transform="scale(1.0312362,0.96970998)"><tspan
+             sodipodi:role="line"
+             id="tspan19846"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763717"
+             x="127.96593"
+             y="90.443733">6</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.9995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.755881"
+           x="147.52983"
+           y="87.560684"
+           id="text19852"
+           transform="scale(0.99493387,1.0050919)"><tspan
+             sodipodi:role="line"
+             id="tspan19850"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.755881"
+             x="147.52983"
+             y="87.560684">7</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.1574px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.763338"
+           x="158.06468"
+           y="90.108543"
+           id="text19856"
+           transform="scale(1.0271821,0.9735372)"><tspan
+             sodipodi:role="line"
+             id="tspan19854"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.763338"
+             x="158.06468"
+             y="90.108543">8</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0332px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.757475"
+           x="173.42892"
+           y="89.618553"
+           id="text19860"
+           transform="scale(1.0222388,0.97824497)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.757475"
+             x="173.42892"
+             y="89.618553"
+             id="tspan19858">9</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="61.651405"
+           y="91.305191"
+           id="text19864"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="61.651405"
+             y="91.305191"
+             id="tspan19862">11</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8788px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.655688"
+           x="79.788643"
+           y="89.151993"
+           id="text19868"
+           transform="scale(0.86200328,1.1600884)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.655688"
+             x="79.788643"
+             y="89.151993"
+             id="tspan19866">12</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9389px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.658531"
+           x="95.863991"
+           y="90.665535"
+           id="text19872"
+           transform="scale(0.87795958,1.1390046)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.658531"
+             x="95.863991"
+             y="90.665535"
+             id="tspan19870">13</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9905px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660966"
+           x="115.11589"
+           y="89.223358"
+           id="text19876"
+           transform="scale(0.8627186,1.1591265)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660966"
+             x="115.11589"
+             y="89.223358"
+             id="tspan19874">14</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9748px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.660227"
+           x="131.46458"
+           y="90.226898"
+           id="text19880"
+           transform="scale(0.87373232,1.1445153)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.660227"
+             x="131.46458"
+             y="90.226898"
+             id="tspan19878">15</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8579px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.654706"
+           x="148.56015"
+           y="90.418434"
+           id="text19884"
+           transform="scale(0.87554511,1.1421456)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.654706"
+             x="148.56015"
+             y="90.418434"
+             id="tspan19882">16</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8086px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.652376"
+           x="170.45786"
+           y="88.000679"
+           id="text19888"
+           transform="scale(0.85086157,1.1752793)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.652376"
+             x="170.45786"
+             y="88.000679"
+             id="tspan19886">17</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.9251px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.657877"
+           x="182.80708"
+           y="90.570358"
+           id="text19892"
+           transform="scale(0.87703496,1.1402054)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.657877"
+             x="182.80708"
+             y="90.570358"
+             id="tspan19890">18</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.8341px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.653577"
+           x="200.60226"
+           y="90.220436"
+           id="text19896"
+           transform="scale(0.87395001,1.1442302)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.653577"
+             x="200.60226"
+             y="90.220436"
+             id="tspan19894">19</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.2995px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.675568"
+           x="44.398273"
+           y="91.305183"
+           id="text19900"
+           inkscape:label="text19329"
+           transform="scale(0.88290997,1.1326183)"><tspan
+             sodipodi:role="line"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;fill-opacity:1;stroke-width:0.675568"
+             x="44.398273"
+             y="91.305183"
+             id="tspan19898">10</tspan></text>
+      </g>
+      <image
+         width="33.830334"
+         height="20"
+         preserveAspectRatio="none"
+         xlink:href="../../Images/obstacles/tronc.png"
+         id="image19904"
+         x="365.55002"
+         y="188.13185"
+         style="display:inline" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="points_x0">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="path9568"
+       cx="60.659275"
+       cy="21.744453"
+       r="15" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.9694px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;stroke:#000000;stroke-width:0.495339"
+       x="51.989712"
+       y="28.267622"
+       id="text4801"
+       transform="scale(0.96943657,1.031527)"><tspan
+         sodipodi:role="line"
+         id="tspan4799"
+         style="stroke-width:0.49534"
+         x="51.989712"
+         y="28.267622">x0</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="points_x1">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="circle9778"
+       cx="90.990517"
+       cy="21.744453"
+       r="15" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.4755px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;stroke:#000000;stroke-width:0.507295"
+       x="81.849701"
+       y="28.747038"
+       id="text4805"
+       transform="scale(0.98615866,1.0140356)"><tspan
+         sodipodi:role="line"
+         id="tspan4803"
+         style="stroke-width:0.507296"
+         x="81.849701"
+         y="28.747038">x1</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="points_x2">
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-opacity:1"
+       id="circle9780"
+       cx="121.32178"
+       cy="21.744453"
+       r="15" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.8409px;font-family:'Book Antiqua';-inkscape-font-specification:'Book Antiqua';fill:#000000;stroke:#000000;stroke-width:0.492303"
+       x="115.29848"
+       y="28.090324"
+       id="text4861"
+       transform="scale(0.96330853,1.038089)"><tspan
+         sodipodi:role="line"
+         id="tspan4859"
+         style="stroke-width:0.492304"
+         x="115.29848"
+         y="28.090324">x2</tspan></text>
+  </g>
+</svg>
