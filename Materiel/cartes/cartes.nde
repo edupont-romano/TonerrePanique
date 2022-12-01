@@ -6,6 +6,7 @@ DPI=300
 CARDSIZE=65,80
 BASERANGE=,ON
 
+rectangle=,0,0,100%,100%,#FEFEFE
 LINKSEP = ;
 LINKAUTO=ON
 LINK=cartes.csv
@@ -20,3 +21,5 @@ IMAGE="1-{(ICONE)}",[ICONE],75%,75%,{14600/731}%,{202/9}%,0,TPVH
 ;bottomLeft(snap)
 IMAGE="1-{(ICONE)}",[ICONE],5%,75%,{14800/731}%,{202/9}%,0,TPVH
 ENDVISUAL
+
+SAVE=,"../../Images/cartes/carte_{§}.png",0,0,100%,100%,#FEFEFE

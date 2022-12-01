@@ -5,6 +5,7 @@ DPI=300
 CARDSIZE=20,20
 BASERANGE=,ON
 
+rectangle=,0,0,100%,100%,#FEFEFE
 LINKSEP = ;
 LINKAUTO=ON
 LINK=jetonsMeteo.csv
@@ -12,3 +13,5 @@ VISUAL=HVGPS, 20, 20
 ;Image(snap)(size)
 IMAGE="1-{(IMAGE)}",[IMAGE],0%,0%,100%,100%,0,TP
 ENDVISUAL
+
+SAVE=,"../../Images/\jetonsMeteo/meteo_{§}.png",0,0,100%,100%,#FEFEFE
