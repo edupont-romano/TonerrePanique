@@ -6,11 +6,13 @@ DPI=300
 CARDSIZE=4,4
 BASERANGE=,ON
 
+rectangle=,0,0,100%,100%,#FEFEFE
 LINKSEP = ;
 LINK=./tuiles.csv
 LINKAUTO=ON
 
 VISUAL=, 10, 10
 IMAGE="1-{(IMAGE)}",[IMAGE],0%,0%,100%,100%,0,T
-IMAGE=,..\..\ToolBox\Images\interdit.png,7.5%,7.5%,85%,85%,0,TP
 ENDVISUAL
+
+SAVE=,"../../Images/tuiles/recto_{§}.png",0,0,100%,100%,#FEFEFE

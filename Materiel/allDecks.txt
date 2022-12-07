@@ -1,0 +1,6 @@
+./cartes/cartes.nde
+./jetonsMeteo/jetonsMeteo.nde
+./obstacles/obstacles.nde
+./obstacles/verso.nde
+./tuiles/recto.nde
+./tuiles/verso.nde

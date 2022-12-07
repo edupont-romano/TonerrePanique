@@ -23,7 +23,7 @@ TEXT=1-5,"Nouvelle manche",{700/30}%,{1900/30}%,{2200/30}%,{400/30}%,CENTER,WORD
 ;[VENT]vent(snap)(size)
 IMAGE=1-5,..\..\Images\vent.png,{100/30}%,{1300/30}%,20%,{400/30}%
 ;[VENT](snap)(size)
-TEXT=1-5,"Tous les animaux se décalle d'une case",{700/30}%,{1300/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
+TEXT=1-5,"Tous les animaux se dï¿½calle d'une case",{700/30}%,{1300/30}%,{2200/30}%,{400/30}%,CENTER,WORDWRAP
 ;[TONNERRE]tonnerre(snap)
 IMAGE=1-5,..\..\Images\tonnerre.png,{100/30}%,{700/30}%,{2240/113}%,13.5%
 ;[TONNERRE](snap)(size)
