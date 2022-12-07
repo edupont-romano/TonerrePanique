@@ -9,12 +9,12 @@
    id="svg11795"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="zone-meteo.svg"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview11797"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -25,440 +25,262 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.38484849"
-     inkscape:cx="545.66929"
-     inkscape:cy="967.91339"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="0.76969698"
+     inkscape:cx="786.02361"
+     inkscape:cy="168.89764"
+     inkscape:window-width="2560"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
-  <defs
-     id="defs11792" />
-  <g
+     inkscape:current-layer="layer1" /><defs
+     id="defs11792" /><g
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
+     id="layer1"><g
        id="g12623"
-       transform="translate(16.074998,-13.99999)">
-      <g
+       transform="translate(16.074998,-13.99999)"><g
          id="g10119"
          transform="translate(393.71493,-331.36378)"
-         style="display:inline">
-        <rect
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10115"
            width="20"
            height="20"
            x="45.07037"
-           y="346.36377" />
-        <image
+           y="346.36377" /><image
            width="20.000004"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/eclair.png"
            id="image10117"
            x="45.07037"
-           y="346.36377" />
-      </g>
-      <g
+           y="346.36377" /></g><g
          id="g10125"
          transform="translate(417.10143,-187.8638)"
-         style="display:inline">
-        <rect
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10121"
            width="20"
            height="20"
            x="45.07037"
-           y="202.86378" />
-        <image
+           y="202.86378" /><image
            width="20"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/tonnerre.png"
            id="image10123"
            x="45.07037"
-           y="202.86378" />
-      </g>
-    </g>
-    <g
-       id="g12573"
-       transform="translate(-5.9250002,-14)">
-      <g
+           y="202.86378" /></g></g><g
+       id="g4222"><g
          id="g17395"
-         transform="matrix(1,0,0,1.0095672,-27.242167,-15.148568)"
-         style="display:inline">
-        <rect
+         transform="matrix(1,0,0,1.0095672,-33.167167,-29.148568)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect9991"
            width="20"
            height="20"
            x="45.07037"
-           y="29.768099" />
-        <image
+           y="29.768099" /><image
            width="20.000004"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/eclair.png"
            id="image9993"
            x="45.07037"
-           y="29.768099" />
-      </g>
-      <g
+           y="29.768099" /></g><g
          id="g10058"
-         transform="translate(89.690363,-187.8638)"
-         style="display:inline">
-        <rect
+         transform="translate(83.765363,-201.86378)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10054"
            width="20"
            height="20"
            x="45.07037"
-           y="202.86378" />
-        <image
+           y="202.86378" /><image
            width="20"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/tonnerre.png"
            id="image10056"
            x="45.07037"
-           y="202.86378" />
-      </g>
-      <g
-         id="g37168"
-         transform="translate(5.4975827,-339.69165)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37164"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37166"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37174"
-         transform="translate(28.884103,-339.69165)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37170"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37172"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37180"
-         transform="translate(52.271793,-339.69165)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37176"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37178"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37186"
-         transform="translate(75.658303,-339.69165)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37182"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37184"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-    </g>
-    <g
-       id="g12590"
-       transform="translate(-0.42500311,-13.999979)">
-      <g
+           y="202.86378" /></g><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4138"
+         x="35.434666"
+         y="1.0000002" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4142"
+         x="58.821186"
+         y="1.0000002" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4144"
+         x="82.313911"
+         y="1.0000002" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4146"
+         x="105.59539"
+         y="1.0000002" /></g><g
+       id="g4233"><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4148"
+         x="181.2549"
+         y="1.0000095" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4150"
+         x="204.64139"
+         y="1.0000095" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4152"
+         x="228.02791"
+         y="1.0000095" /><g
          id="g10035"
-         transform="translate(113.07687,-331.36378)"
-         style="display:inline">
-        <rect
+         transform="translate(112.65187,-345.36376)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10031"
            width="20"
            height="20"
            x="45.07037"
-           y="346.36377" />
-        <image
+           y="346.36377" /><image
            width="20.000004"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/eclair.png"
            id="image10033"
            x="45.07037"
-           y="346.36377" />
-      </g>
-      <g
+           y="346.36377" /></g><g
          id="g10064"
-         transform="translate(206.62289,-187.8638)"
-         style="display:inline">
-        <rect
+         transform="translate(206.19789,-201.86378)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10060"
            width="20"
            height="20"
            x="45.07037"
-           y="202.86378" />
-        <image
+           y="202.86378" /><image
            width="20"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/tonnerre.png"
            id="image10062"
            x="45.07037"
-           y="202.86378" />
-      </g>
-      <g
-         id="g37569"
-         transform="translate(145.81782,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37565"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37567"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37575"
-         transform="translate(169.20431,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37571"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37573"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37581"
-         transform="translate(192.59083,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37577"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37579"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-    </g>
-    <g
-       id="g12604"
-       transform="translate(5.0750008,-13.999979)">
-      <g
+           y="202.86378" /></g></g><g
+       id="g4243"><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4154"
+         x="303.68863"
+         y="1.0000095" /><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4156"
+         x="327.07513"
+         y="1.0000095" /><g
          id="g10070"
-         transform="translate(230.00939,-331.36378)"
-         style="display:inline">
-        <rect
+         transform="translate(235.08439,-345.36376)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10066"
            width="20"
            height="20"
            x="45.07037"
-           y="346.36377" />
-        <image
+           y="346.36377" /><image
            width="20.000004"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/eclair.png"
            id="image10068"
            x="45.07037"
-           y="346.36377" />
-      </g>
-      <g
+           y="346.36377" /></g><g
          id="g10101"
-         transform="translate(300.16891,-187.8638)"
-         style="display:inline">
-        <rect
+         transform="translate(305.24391,-201.86378)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10097"
            width="20"
            height="20"
            x="45.07037"
-           y="202.86378" />
-        <image
+           y="202.86378" /><image
            width="20"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/tonnerre.png"
            id="image10099"
            x="45.07037"
-           y="202.86378" />
-      </g>
-      <g
-         id="g37965"
-         transform="translate(262.75154,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37961"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37963"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-      <g
-         id="g37971"
-         transform="translate(286.13804,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37967"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37969"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-    </g>
-    <g
-       id="g12615"
-       transform="translate(10.575004,-13.99999)">
-      <g
+           y="202.86378" /></g></g><g
+       id="g4252"><image
+         width="20"
+         height="20"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeQuality"
+         xlink:href="../../Images/jetonsMeteo/verso.png"
+         id="image4158"
+         x="402.8385"
+         y="0.99999952" /><g
          id="g10107"
-         transform="translate(323.55541,-331.36378)"
-         style="display:inline">
-        <rect
+         transform="translate(334.13041,-345.36377)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10103"
            width="20"
            height="20"
            x="45.07037"
-           y="346.36377" />
-        <image
+           y="346.36377" /><image
            width="20.000004"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/eclair.png"
            id="image10105"
            x="45.07037"
-           y="346.36377" />
-      </g>
-      <g
+           y="346.36377" /></g><g
          id="g10113"
-         transform="translate(370.32842,-187.8638)"
-         style="display:inline">
-        <rect
+         transform="translate(380.90342,-201.86379)"
+         style="display:inline"><rect
            style="fill:none;stroke:#ff0000;stroke-width:0.499999"
            id="rect10109"
            width="20"
            height="20"
            x="45.07037"
-           y="202.86378" />
-        <image
+           y="202.86378" /><image
            width="20"
            height="20"
            preserveAspectRatio="none"
            xlink:href="../../Images/tonnerre.png"
            id="image10111"
            x="45.07037"
-           y="202.86378" />
-      </g>
-      <g
-         id="g37977"
-         transform="translate(356.29636,-339.69166)"
-         style="display:inline">
-        <rect
-           style="stroke:#000000;stroke-width:0.502385;stroke-opacity:1"
-           id="rect37973"
-           width="20"
-           height="20.191343"
-           x="35.715931"
-           y="354.59598" />
-        <image
-           width="20.292301"
-           height="20.191345"
-           preserveAspectRatio="none"
-           xlink:href="../../Images/jetonsMeteo/verso.png"
-           id="image37975"
-           x="35.715931"
-           y="354.59598" />
-      </g>
-    </g>
-  </g>
-</svg>
+           y="202.86378" /></g></g></g></svg>
