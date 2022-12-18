@@ -1,0 +1,19 @@
+CARDS=66
+;BORDER=ROUNDED,#000000,0.1
+UNIT=MM
+PAGE=210,297,PORTRAIT,HV
+DPI=300
+CARDSIZE=65,80
+BASERANGE=,ON
+
+rectangle=,0,0,100%,100%,#FEFEFE
+LINKSEP = ;
+LINKAUTO=ON
+LINK=verso.csv
+VISUAL=HVGPS, 20, 20
+;Image(snap)(size)
+IMAGE="1-{(MEEPLE)}",[MEEPLE],15%,15%,70%,70%,0,TP
+ENDVISUAL
+
+SAVE=,"../../Images/versoCartes/verso_{§}.png",0,0,100%,100%,#FEFEFE
+SAVE=,"../../Images/versoCartes/avecFond/verso_{§}.png",0,0,100%,100%,
