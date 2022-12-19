@@ -3,7 +3,7 @@ CARDS=66
 UNIT=MM
 PAGE=210,297,PORTRAIT,HV
 DPI=300
-CARDSIZE=65,80
+CARDSIZE=63,88
 BASERANGE=,ON
 
 rectangle=,0,0,100%,100%,#000000
@@ -15,5 +15,5 @@ VISUAL=HVGPS, 20, 20
 IMAGE="1-{(MEEPLE)}",[MEEPLE],15%,15%,70%,70%,0,TP
 ENDVISUAL
 
-SAVE=,"../../Images/versoCartes/verso_{ง}.png",0,0,100%,100%,#000000
-SAVE=,"../../Images/versoCartes/avecFond/verso_{ง}.png",0,0,100%,100%,
+SAVE=,"../../Images/versoCartes/verso_{ยง}.png",0,0,100%,100%,#000000
+SAVE=,"../../Images/versoCartes/avecFond/verso_{ยง}.png",0,0,100%,100%,
