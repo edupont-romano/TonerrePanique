@@ -32,4 +32,45 @@ Pour marquer la fin de la manche, déplacer le \compteurManche d'une case et app
 \item \includegraphics[scale=0.8]{jetonsMeteo/jetonVent}: choisissez entre donner une carte à votre voisin de gauche ou perdre \textbf{3 points}
 \item \includegraphics[scale=0.8]{jetonsMeteo/jetonPluie}: choisissez entre diminuer de 1 un des multiplicateur ou perdre \textbf{3 points}
 \end{itemize}
-\subsubsection*{}
+
+\subsection*{Détail des actions} \label{sec:actions}
+\addcontentsline{toc}{subsection}{Détail des actions}
+Toutes les actions, à l'exception du joker, suivent le même fonctionnement: l'effet est appliqué autant de fois que le valeur du multiplicateur associé.
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_deplacerMeeples} \\ Déplacer des randonneurs}
+\important{\begin{itemize}
+\item[*]La couleur du randonneur est donnée par la carte au sommet de la pioche.
+\item[*]Si les couleurs de l'obstacle et du randonneur sont les même, doublez la récompense.
+\item[*] Maximum 3 déplacements par action.
+\end{itemize}}
+
+Cette action va permettre de faire rebondir des randonneurs pour marquer des points. La couleur du randonneur qui se déplace est donnée par la carte au sommet de la pioche. Si les couleurs de l'obstacle et du randonneur sont les même, doublez la récompense. Pour déplacer un randonneur:
+\begin{enumerate}
+\item Déplacez le randonneur qui a la même couleur que le sommet de la pioche, en suivant le chemin, dans la direction de votre choix, jusqu'à rencontrer un obstacle
+\item selon la nature de l'obstacle:
+\begin{itemize}
+\item[*] Si l'obstacle est un autre randonneur, le premier s'arrête et le deuxième part en suivant le chemin,
+\item[*] Si l'obstacle est le bord du terrain, le randonneur rebondit et repart dans une autre direction
+\item[*] Si l'obstacle est une \faceValeur, marquez les points correspondants, retournez l'obstacle et faite repartir le randonneur dans une autre direction.
+\item[*] Si l'obstacle est une \faceObstacle, augmentez le jeton sur l'echelle de l'obstacle correspondante, retournez l'obstacle et faite repartir le randonneur dans une autre direction.
+\end{itemize}
+\item Défaussez la carte du dessus de la pioche.
+\end{enumerate}
+
+\acompleter{EXEMPLE}
+
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_piocherCarte} \\ Piocher des cartes}
+\important{La taille de la main est limitée à 3 cartes.}
+Piochez autant de cartes que la valeur de votre multiplicateur. Défaussez pour n'avoir que trois cartes en mains.
+
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_multiplicateurNegatif} \\ Diminuer des multiplicateurs}
+Diminuez de 1 un multiplicateur d'un autre joueur. Si vous acez plusieurs actions, vous pouvez répartir vos actions comme vous voulez (le même joueur, la même piste, des joueurs différents, des pistes différentes).
+
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_multiplicateurPositif} \\ Augmenter des multiplicateurs}
+Augmentez un de vos multiplicateurs. Si vous avez plusieurs actions, vous pouvez les répartir comme vous voulez.
+
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_obstacle} \\ Modifier l'ordre des obstacle}
+Échangez de place deux \marqueursObstacles.
+
+\subsubsection*{\includegraphics[scale=0.3]{icones/icones_joker} \\ Remplacer une action}
+\important{Ignorez les multiplicateurs.}
+Effectuez n'importe quelle action, une seule fois.
