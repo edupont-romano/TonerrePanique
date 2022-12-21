@@ -29,14 +29,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.0000001"
-     inkscape:cx="-53.249999"
-     inkscape:cy="200.49999"
-     inkscape:window-width="2560"
-     inkscape:window-height="1406"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
+     inkscape:cx="180.24999"
+     inkscape:cy="326.99998"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer2"
      showguides="true" /><defs
      id="defs11931" /><g
      inkscape:label="fond"
@@ -187,7 +187,7 @@
            x="6.5093699"
            y="127.59685">3*:</tspan></text></g><g
        id="g9359"
-       transform="translate(68.740011,63.945715)"><image
+       transform="translate(66.623493,63.02079)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
@@ -213,7 +213,7 @@
            sodipodi:role="line"
            id="tspan5587">multiplicateurs</tspan></text></g><g
        id="g9332"
-       transform="translate(68.691193,64.075644)"><image
+       transform="translate(66.623493,63.230058)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
@@ -233,7 +233,7 @@
            y="10.4226"
            id="tspan2665">Max 3 déplacements </tspan></text></g><g
        id="g9338"
-       transform="translate(68.691193,64.075644)"><image
+       transform="translate(66.623493,63.230058)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
@@ -259,7 +259,7 @@
            sodipodi:role="line"
            id="tspan5589">les jetons</tspan></text></g><g
        id="g9343"
-       transform="translate(68.691193,64.075643)"><image
+       transform="translate(66.623493,63.230057)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
@@ -280,7 +280,7 @@
            sodipodi:role="line"
            id="tspan9223">Max: 3</tspan></text></g><g
        id="g9353"
-       transform="translate(68.691193,63.866376)"><image
+       transform="translate(66.623493,63.02079)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
@@ -301,7 +301,7 @@
            sodipodi:role="line"
            id="tspan9229">Min: 1</tspan></text></g><g
        id="g9348"
-       transform="translate(68.691193,63.866376)"><image
+       transform="translate(66.623493,63.02079)"><image
          width="12"
          height="12"
          preserveAspectRatio="none"
