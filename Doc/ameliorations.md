@@ -17,10 +17,3 @@
 Sur ce plateau, on va trouver:
 * un multiplicateur qui va indiquer combien de fois on va pouvoir faire l'action
 * des pistes pour compter les catégories d'obstacle heurtées dans la partie
-
-# Modifications sur le retournement
-![This is an image](actions.png)
-Au lieu d'en retourner une seule, les autres joueurs retournent deux tuiles: la même est une adjacente. dans l'exemple, si le joueur actif joue bleu, les autres joueurs vont retourner:
-* bleu & rouge
-**OU**
-* bleu & jaune
