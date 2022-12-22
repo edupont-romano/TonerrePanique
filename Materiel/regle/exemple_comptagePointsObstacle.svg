@@ -3,8 +3,8 @@
 
 <svg
    width="221.48906mm"
-   height="181.33139mm"
-   viewBox="0 0 221.48906 181.33139"
+   height="165.45639mm"
+   viewBox="0 0 221.48906 165.45639"
    version="1.1"
    id="svg2587"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.93806818"
-     inkscape:cx="186.02059"
+     inkscape:cx="-29.315566"
      inkscape:cy="430.67232"
      inkscape:window-width="2560"
      inkscape:window-height="1406"
@@ -45,10 +45,10 @@
        preserveAspectRatio="none"
        inkscape:svg-dpi="96"
        width="221.48906"
-       height="181.33139"
+       height="165.45639"
        style="image-rendering:optimizeQuality"
        xlink:href="../plateau/zone-obstacles.svg"
-       id="image2938"
+       id="image6246"
        x="-1.3086324"
        y="34.565075" /></g><g
      inkscape:groupmode="layer"
@@ -61,15 +61,15 @@
        xlink:href="../../Images/jetonsJoueurs/eau.png"
        id="image3822"
        x="100.74453"
-       y="35.487087" /><image
+       y="35.205036" /><image
        width="20"
        height="20"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
        xlink:href="../../Images/jetonsJoueurs/eau.png"
        id="image3828"
-       x="161.6676"
-       y="88.512726" /><image
+       x="162.51376"
+       y="80.615288" /><image
        width="20"
        height="20"
        preserveAspectRatio="none"
@@ -77,9 +77,9 @@
        xlink:href="../../Images/jetonsJoueurs/eau.png"
        id="image3830"
        x="80.74453"
-       y="140.97426" /><g
+       y="126.30759" /><g
        id="g3924"
-       transform="translate(138.20513,-78.096299)"><circle
+       transform="translate(137.64103,-78.512726)"><circle
          style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
          id="path3920"
          cx="-65.061005"
@@ -109,7 +109,7 @@
          x="-142.48717"
          y="-26" /></g><g
        id="g4490"
-       transform="translate(282.33333,38.692307)"><circle
+       transform="translate(283.17948,38.692308)"><circle
          style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.264583"
          id="path4486"
          cx="-113.66666"

@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="87.384613mm"
+   height="191.46155mm"
+   viewBox="0 0 87.384613 191.46155"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -26,12 +26,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.93806818"
-     inkscape:cx="52.235009"
-     inkscape:cy="561.79285"
-     inkscape:window-width="1920"
-     inkscape:window-height="1051"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:cx="-526.08116"
+     inkscape:cy="471.1811"
+     inkscape:window-width="2560"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="g1940" />
   <defs
@@ -40,7 +40,7 @@
        inkscape:collect="always"
        id="linearGradient2386">
       <stop
-         style="stop-color:#ff00ff;stop-opacity:0.88627452;"
+         style="stop-color:#ff00ff;stop-opacity:1;"
          offset="0.59047621"
          id="stop2382" />
       <stop
@@ -197,9 +197,10 @@
   <g
      inkscape:label="rouge"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-51.160255,-23.294865)">
     <circle
-       style="fill:url(#linearGradient1005);fill-rule:evenodd;stroke-width:0.265;fill-opacity:1;stroke-dasharray:none;stroke:none;stroke-opacity:1"
+       style="fill:url(#linearGradient1005);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="path997"
        cx="71.160255"
        cy="145.39743"
@@ -209,7 +210,7 @@
      inkscape:label="bleu"
      inkscape:groupmode="layer"
      id="g1807"
-     transform="translate(47.384615)">
+     transform="translate(-3.7756404,-23.294865)">
     <circle
        style="fill:url(#linearGradient1809);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle1805"
@@ -221,7 +222,7 @@
      inkscape:label="jaune"
      inkscape:groupmode="layer"
      id="g2598"
-     transform="translate(0,-52.179487)">
+     transform="translate(-51.160255,-75.474352)">
     <circle
        style="fill:url(#linearGradient2821);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle2596"
@@ -233,7 +234,7 @@
      inkscape:label="vert"
      inkscape:groupmode="layer"
      id="g2831"
-     transform="translate(47.384615,-53.589743)">
+     transform="translate(-3.7756404,-76.884608)">
     <circle
        style="fill:url(#linearGradient2833);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle2829"
@@ -245,7 +246,7 @@
      inkscape:label="orange"
      inkscape:groupmode="layer"
      id="g2843"
-     transform="translate(0,-102.10256)">
+     transform="translate(-51.160255,-125.39743)">
     <circle
        style="fill:url(#linearGradient2845);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle2841"
@@ -257,7 +258,7 @@
      inkscape:label="violet"
      inkscape:groupmode="layer"
      id="g1940"
-     transform="translate(0,49.358979)">
+     transform="translate(-51.160255,26.064114)">
     <circle
        style="fill:url(#linearGradient1942);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle1938"
@@ -272,7 +273,7 @@
      inkscape:label="gris"
      inkscape:groupmode="layer"
      id="g2855"
-     transform="translate(48.794872,-100.1282)">
+     transform="translate(-2.3653834,-123.42307)">
     <circle
        style="fill:url(#linearGradient2857);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
        id="circle2853"
