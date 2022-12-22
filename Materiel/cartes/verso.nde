@@ -13,6 +13,8 @@ LINK=verso.csv
 VISUAL=HVGPS, 20, 20
 ;Image(snap)(size)
 IMAGE="1-{(MEEPLE)}",[MEEPLE],15%,15%,70%,70%,0,TP
+;Image(snap)(size)
+IMAGE="1-{(ICONE)}",[ICONE],10%,10%,20%,20%,0,PN
 ENDVISUAL
 
 SAVE=,"../../Images/versoCartes/verso_{§}.png",0,0,100%,100%,#000000

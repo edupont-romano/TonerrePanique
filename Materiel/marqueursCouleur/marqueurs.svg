@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="marqueurs.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.0473105"
+     inkscape:cx="471.36657"
+     inkscape:cy="156.7639"
+     inkscape:window-width="2560"
+     inkscape:window-height="1406"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2050" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="carre" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="forme">
+    <g
+       id="g1194">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect1081"
+         width="24.557009"
+         height="24.557009"
+         x="65.112526"
+         y="53.121944" />
+      <g
+         id="g1091"
+         transform="matrix(0.66105381,0,0,0.66105381,22.898062,43.460953)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.26910424;stroke-dasharray:none"
+           d="M 68.111695,37.54639 86.670365,18.542135"
+           id="path1083" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.26910424;stroke-dasharray:none"
+           d="M 78.196603,47.835202 96.755273,28.830947"
+           id="path1087" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:4.2395;stroke-dasharray:none"
+       d="M 52.391026,119.295 H 102.39103"
+       id="path1078" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="forme2">
+    <g
+       id="g1204"
+       transform="translate(-10.004056,-31.432499)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect1196"
+         width="24.557009"
+         height="24.557009"
+         x="65.112526"
+         y="53.121944" />
+      <g
+         id="g1202"
+         transform="matrix(0.66105381,0,0,0.66105381,22.898062,43.460953)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.2691;stroke-dasharray:none"
+           d="M 68.111695,37.54639 86.670365,18.542135"
+           id="path1198" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:2.2691;stroke-dasharray:none"
+           d="M 78.196603,47.835202 96.755273,28.830947"
+           id="path1200" />
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="forme1">
+    <g
+       id="g1940">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect234"
+         width="24.557009"
+         height="24.557009"
+         x="27.612522"
+         y="21.689445" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
+         d="M 30.611691,43.470077 49.170361,24.465822"
+         id="path522" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="forme3">
+    <g
+       id="g2097">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect1943"
+         width="24.557009"
+         height="24.557009"
+         x="-109.34203"
+         y="21.689445"
+         transform="scale(-1,1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
+         d="M 106.34286,43.470077 87.784189,24.465822"
+         id="path1945" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
+         d="m 97.325526,33.699657 9.502124,-9.279335"
+         id="path2054" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="forme5">
+    <g
+       id="g1985">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect1969"
+         width="24.557009"
+         height="24.557009"
+         x="-169.97952"
+         y="21.689445"
+         transform="scale(-1,1)" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
+         d="M 166.98036,43.470077 148.42169,24.465822"
+         id="path1971" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.5;stroke-dasharray:none"
+         d="M 148.42169,43.470077 166.98036,24.465822"
+         id="path1980" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="forme6">
+    <g
+       id="g1996"
+       transform="translate(107.6625,-31.432499)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.442991"
+         id="rect1988"
+         width="24.557009"
+         height="24.557009"
+         x="65.112526"
+         y="53.121944" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="forme4">
+    <g
+       id="g2050"
+       transform="matrix(0.78095358,0,0,0.78095358,25.639146,4.7847462)">
+      <g
+         id="g2103">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:0.442991"
+           id="rect1953"
+           width="24.557009"
+           height="24.557009"
+           x="-139.31297"
+           y="21.689445"
+           transform="matrix(-1.2804859,0,0,1.2804859,-32.830563,-6.1267998)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.92073;stroke-dasharray:none"
+           d="M 141.76682,43.629508 129.49855,31.066673"
+           id="path1955" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.92072876;stroke-dasharray:none"
+           d="M 117.58808,43.629508 130.33841,30.573047"
+           id="path1957" />
+      </g>
+    </g>
+  </g>
+</svg>
