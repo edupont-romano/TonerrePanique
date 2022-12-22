@@ -1,0 +1,25 @@
+;CARDS=18
+;BORDER=ROUNDED,#000000,0.1
+UNIT=MM
+PAGE=210,297,PORTRAIT,HV
+DPI=300
+CARDSIZE=20,20
+BASERANGE=,ON
+
+rectangle=,0,0,100%,100%,#000000
+LINKSEP = ;
+LINKAUTO=ON
+LINK=obstacles.csv
+VISUAL=HVGPS, 20, 20
+;Fond(snap)(size)
+IMAGE="1-{(FOND)}",[FOND],0%,0%,100%,100%
+;Marque(snap)(size)
+IMAGE="1-{(MARQUEUR)}",[MARQUEUR],0%,0%,100%,100%,0,TP,50
+;Valeur(snap)(size)
+IMAGE="1-{(VALEUR)}",[VALEUR],0%,0%,100%,100%,0,TND
+;Circle(snap)(size)
+CIRCLE=,0%,0%,100%,100%,#000000,EMPTY
+ENDVISUAL
+
+SAVE=,"../../Images/obstacles/faceValeur/faceValeur_{$}.png",0,0,100%,100%,#000000
+;SAVE=,"../../Images/versoCartes/avecFond/verso_{�}.png",0,0,100%,100%,
