@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="240.284mm"
-   height="261.94534mm"
-   viewBox="0 0 240.284 261.94534"
+   width="530.66919mm"
+   height="116.67737mm"
+   viewBox="0 0 530.6692 116.67737"
    version="1.1"
    id="svg834"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
@@ -29,7 +29,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.66331437"
-     inkscape:cx="137.94364"
+     inkscape:cx="193.72413"
      inkscape:cy="446.24391"
      inkscape:window-width="2560"
      inkscape:window-height="1406"
@@ -41,7 +41,7 @@
      inkscape:label="terre"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-5.8782501,-16.685337)"><g
+     transform="translate(-5.8782525,-16.685337)"><g
        id="g4035"
        transform="translate(-9.918591,9.304443)"><g
          id="g1249"
@@ -163,17 +163,17 @@
        style="image-rendering:optimizeQuality"
        xlink:href="../../ToolBox/Images/flecheDroite.png"
        id="image4159"
-       x="208.16927"
-       y="-135.93884"
+       x="62.901295"
+       y="-426.32404"
        transform="rotate(90)" /></g><g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="nature"
-     transform="translate(-5.8782501,-16.685337)"><g
+     transform="translate(-5.8782525,-16.685337)"><g
        id="g4157"
        transform="translate(-27.123891,-45.073525)"><g
          id="g4189"
-         transform="translate(17.205295,27.59791)"><image
+         transform="translate(307.59048,-117.67006)"><image
            width="40.047333"
            height="39.962666"
            preserveAspectRatio="none"
@@ -233,21 +233,19 @@
            style="image-rendering:optimizeQuality"
            xlink:href="../../Images/tuiles/tuile_25.png"
            id="image4057"
-           x="15.796846"
-           y="243.85345"
-           transform="translate(27.123891,45.073525)" /><image
+           x="333.30591"
+           y="143.65901" /><image
            width="40.047333"
            height="39.962666"
            preserveAspectRatio="none"
            style="image-rendering:optimizeQuality"
            xlink:href="../../Images/tuiles/tuile_28.png"
            id="image4081"
-           x="55.844181"
-           y="243.85345"
-           transform="translate(27.123891,45.073525)" /><g
+           x="373.35327"
+           y="143.65901" /><g
            id="g4169"
            style="opacity:0.5"
-           transform="translate(11.313226,100.47242)"><image
+           transform="translate(301.69841,-44.795551)"><image
              width="40.047333"
              height="39.962666"
              preserveAspectRatio="none"
@@ -283,7 +281,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="numeros"
-     transform="translate(-5.87825,-16.685337)"><image
+     transform="translate(-5.8782524,-16.685337)"><image
        width="19.981333"
        height="19.981333"
        preserveAspectRatio="none"
@@ -298,5 +296,5 @@
        style="image-rendering:optimizeQuality"
        xlink:href="../../ToolBox/Images/numeros/numeros_rouge2.png"
        id="image4212"
-       x="35.934917"
-       y="191.92531" /></g></svg>
+       x="326.3201"
+       y="46.657337" /></g></svg>
