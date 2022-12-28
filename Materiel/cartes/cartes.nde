@@ -1,4 +1,4 @@
-CARDS=66
+;CARDS=66
 ;BORDER=ROUNDED,#000000,0.1
 UNIT=MM
 PAGE=210,297,PORTRAIT,HV
@@ -12,16 +12,21 @@ LINKAUTO=ON
 LINK=cartes.csv
 VISUAL=HVGP, 20, 20
 ;Image(snap)
-IMAGE="1-{(CENTRE)}",[CENTRE],15%,15%,{954/13}%,{547/8}%,0,TP
+IMAGE="1-{(CENTRE)}",[CENTRE],15%,15%,{42100/573}%,{547/8}%,0,TP
 ;topLeft(snap)
-IMAGE="1-{(ICONE)}",[ICONE],5%,5%,{264/13}%,{179/8}%,0,TP
+IMAGE="1-{(ICONE)}",[ICONE],5%,5%,{11600/573}%,{179/8}%,0,TP
 ;topRight(snap)
-IMAGE="1-{(ICONE)}",[ICONE],75%,5%,{258/13}%,{179/8}%,0,TP
+IMAGE="1-{(ICONE)}",[ICONE],75%,5%,{3800/191}%,{179/8}%,0,TP
 ;bottomRight(snap)
-IMAGE="1-{(ICONE)}",[ICONE],75%,75%,{258/13}%,{179/8}%,0,TPVH
+IMAGE="1-{(ICONE)}",[ICONE],75%,75%,{3800/191}%,{179/8}%,0,TPVH
 ;bottomLeft(snap)
-IMAGE="1-{(ICONE)}",[ICONE],5%,75%,{264/13}%,{179/8}%,0,TPVH
+IMAGE="1-{(ICONE)}",[ICONE],5%,75%,{11600/573}%,{179/8}%,0,TPVH
 ENDVISUAL
+
+SECTION=VERSO,OFF
+;Image(snap)
+IMAGE="1-{(VERSO)}",[VERSO],40%,70%,{14200/573}%,{199/8}%,0,T
+ENDSECTION
 
 SAVE=,"../../Images/cartes/carte_{§}.png",0,0,100%,100%,#FEFEFE
 SAVE=,"../../Images/cartes/avecFond/carte_{§}.png",0,0,100%,100%,

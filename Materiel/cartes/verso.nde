@@ -1,4 +1,4 @@
-CARDS=66
+;CARDS=66
 ;BORDER=ROUNDED,#000000,0.1
 UNIT=MM
 PAGE=210,297,PORTRAIT,HV
@@ -19,3 +19,10 @@ ENDVISUAL
 
 SAVE=,"../../Images/versoCartes/verso_{§}.png",0,0,100%,100%,#000000
 SAVE=,"../../Images/versoCartes/avecFond/verso_{§}.png",0,0,100%,100%,
+
+SAVE=1,"../../Images/versoCartes/versoBleu.png",0,0,100%,100%,
+SAVE=12,"../../Images/versoCartes/versoGris.png",0,0,100%,100%,
+SAVE=23,"../../Images/versoCartes/versoJaune.png",0,0,100%,100%,
+SAVE=34,"../../Images/versoCartes/versoRouge.png",0,0,100%,100%,
+SAVE=45,"../../Images/versoCartes/versoVert.png",0,0,100%,100%,
+SAVE=56,"../../Images/versoCartes/versoViolet.png",0,0,100%,100%,
