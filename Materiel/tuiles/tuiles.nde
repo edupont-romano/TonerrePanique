@@ -1,7 +1,7 @@
 UNIT=MM
 PAGE=210,297,PORTRAIT,HV
 DPI=300
-CARDSIZE=40,40
+CARDSIZE=50,50
 BASERANGE=,ON
 
 rectangle=,0,0,100%,100%,#FEFEFE
@@ -17,5 +17,5 @@ IMAGE="1-{(ICONE)}",[ICONE],{100/30}%,{100/30}%,{52/3}%,{52/3}%,0,TP
 IMAGE="1-{(INTERDIT)}",[INTERDIT],{200/30}%,{200/30}%,{793/9}%,{793/9}%,0,TP,75
 ENDVISUAL
 
-SAVE=,"../../Images/tuiles/tuile_{ยง}.png",0,0,100%,100%,#FEFEFE
-SAVE=,"../../Images/tuiles/avecFond/tuile_{ยง}.png",0,0,100%,100%
+SAVE=,"../../Images/tuiles/tuile_{ง}.png",0,0,100%,100%,#FEFEFE
+SAVE=,"../../Images/tuiles/avecFond/tuile_{ง}.png",0,0,100%,100%
