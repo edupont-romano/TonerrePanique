@@ -11,7 +11,7 @@
 * Qu'est ce qui se passe si un joueur à tous ses jetons de retourné ?
 
 # A tester
-1. tuile au lieu de carte pour les évènement météo
-2. dés de contrainte
-3. déplacement des jetons
-4. 5 manches: trop long?
+1. ~~tuile au lieu de carte pour les évènement météo~~
+2. ~~dés de contrainte~~
+3. ~~déplacement des jetons~~
+4. ~~5 manches: trop long?~~
