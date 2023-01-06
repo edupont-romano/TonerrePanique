@@ -28,5 +28,5 @@ SECTION=VERSO,OFF
 IMAGE="1-{(VERSO)}",[VERSO],40%,70%,{14200/573}%,{199/8}%,0,T
 ENDSECTION
 
-SAVE=,"../../Images/cartes/carte_{ง}.png",0,0,100%,100%,#FEFEFE
-SAVE=,"../../Images/cartes/avecFond/carte_{ง}.png",0,0,100%,100%,
+SAVE=,"../../Images/cartes/carte_{ยง}.png",0,0,100%,100%,#FEFEFE
+SAVE=,"../../Images/cartes/avecFond/carte_{ยง}.png",0,0,100%,100%,
